@@ -1,3 +1,6 @@
 [submodule "mouse-bed"]
 	path = mouse-bed
 	url = git@github.com:tom-sartori/mouse-bed.git
+[submodule "TwitchAdblock"]
+	path = TwitchAdblock
+	url = git@github.com:tom-sartori/TwitchAdblock.git
