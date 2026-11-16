@@ -4,3 +4,6 @@
 [submodule "TwitchAdblock"]
 	path = TwitchAdblock
 	url = git@github.com:tom-sartori/TwitchAdblock.git
+[submodule "no-shorts"]
+	path = no-shorts
+	url = git@github.com:tom-sartori/no-shorts.git
